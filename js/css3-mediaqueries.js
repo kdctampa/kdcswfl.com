@@ -776,4 +776,8 @@ document.execCommand("BackgroundImageCache",false,true);
 }
 catch(e){
 }
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> a7ce74ab94a6c8cc8170e9fdcb3c22b5b9d2f02f
